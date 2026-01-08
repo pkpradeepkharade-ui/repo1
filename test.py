@@ -1,1 +1,1 @@
-Print ( "Hi my name is pradeep this is my first repository in github")
+print ( "Hi my name is pradeep this is my first repository in github")
